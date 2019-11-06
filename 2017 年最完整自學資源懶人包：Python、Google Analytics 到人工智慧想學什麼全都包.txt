@@ -1,0 +1,67 @@
+Python 程式語言入門 
+An Introduction to Interactive Programming in Python (Part 1)
+由 Rice University 與 Coursera 合作開設 
+Python 和 Swift 被大多數人公認為最好入門的程式語言，而這堂課主要帶領很少或沒有程式背景的學生學會 Python 的基礎知識和邏輯。這堂課獲得了全球 2973 則學生好評回饋，大多數學生都是讚美他課程架構完整，課程內容含有小測驗能夠幫助理解。
+https://www.class-central.com/mooc/408/coursera-an-introduction-to-interactive-programming-in-python-part-1
+
+MATLAB 程式設計入門簡介 
+Introduction to Programming with MATLAB
+由 Vanderbilt University 與 Coursera 合作開設 
+ 這門課程獲得 181 則好評，課程專門針對那些從前沒有甚至沒接觸過程式語言的新手。MATLAB 使用的程式系統它易於學習且具備多樣功能，對於工程師和其他專業人員都非常有用。
+https://www.class-central.com/mooc/3396/coursera-introduction-to-programming-with-matlab
+
+Python 入門課程 
+Programming for Everybody (Getting Started with Python)
+由 University of Michigan 與 Coursera 合作開設 
+ 本課程旨在教大家 Python 的基礎知識。課程內容包含介紹如何從 Python 中的一系列簡單指令建構程式的基礎知識。你只需要懂得最簡單的數學就有能力開始上課了。此門課程獲得 1648 則好評。
+https://www.class-central.com/mooc/4319/coursera-programming-for-everybody-getting-started-with-python
+
+機器學習 
+Machine Learning
+由 Stanford University 與 Coursera 合作開設 
+ 毫無意外的，中國 AI 之父，同時也是 Coursera 共同創辦人的吳恩達所開設的機器學習課程也上榜了，這堂課獲得 131 則好評回饋，上課內容主要是介紹機器學習，數據分析以及統計學。
+https://www.class-central.com/mooc/835/coursera-machine-learning
+
+學習如何寫程式？
+Learn to Program: The Fundamentals由 University of Toronto 與 Coursera 共同開設 
+ 這堂 課程和一般程式課程不同之處在於，它不僅介紹程式的基本概念，還會手把手教你如何使用 Python 編寫有趣和有用的程式。所以得到了 96 個全球好評！
+https://www.class-central.com/mooc/385/coursera-learn-to-program-the-fundamentals
+
+用 Python 學計算機科學與程式 
+Introduction to Computer Science and Programming Using Python
+由 Massachusetts Institute of Technology 與 edX 共同開設 
+ 這堂課的特色在於，使用 Python 3.5 解決現實世界中真正的問題。不僅課程有趣實用，而且也能透過 Python 學習數據分析基本原理。獲得全球 110 則好評！
+https://www.class-central.com/mooc/1341/edx-introduction-to-computer-science-and-programming-using-python
+
+山 
+Mountains 101
+由 University of Alberta 與 Coursera 共同開設 
+ 山脈 101 課程包含世界各處山區的綜合概述。這個 12 課程課程涵蓋了一個跨學科的研究領域，重點關注加拿大 Alberta 和世界各地山區的物理、生物和人。獲得全球 248 好評！
+https://www.class-central.com/mooc/7455/coursera-mountains-101
+
+了解臨床研究 
+Understanding Clinical Research: Behind the Statistics
+由 University of Cape Town 與 Coursera 合作開設 
+ 如果你是個會對於最新公開發表的研究論文感興趣的人，或者你正在進行自己的研究，那這門課程會是很棒的指引。它獲得了全球 82 個好評，讓你不需要使用困難的數學公式，就能簡單地解釋常見的統計概念，並且幫助你解讀最新發表的研究論文！
+https://www.class-central.com/mooc/5037/coursera-understanding-clinical-research-behind-the-statistics
+
+醫學神經科學 
+Medical Neuroscience
+由杜克大學與 Coursera 合作開設 
+ 這門線上課程是少見的醫療科學線上課程，獲得全球 32 則好評回饋，課程內容包含了神經生理學和臨床神經解剖學的所有核心概念，是醫學院一年級必修的神經科學課程。建議對醫科有興趣的人可以由此入門！
+https://www.class-central.com/mooc/384/coursera-medical-neuroscience
+
+工程力學簡介 
+Introduction to Engineering Mechanics
+由 Georgia Institute of Technology 與 Coursera 合作開設 
+ 這門課程介紹了所有面對工程力學問題所需應用的原則，但你需要有基礎數學和基礎物理課程的內容才會比較好理解授課內容。此外，該課程特別強調現實世界的工程應用，也教授實際解決問題的方法。獲全球 98 則好評！
+https://www.class-central.com/mooc/564/coursera-introduction-to-engineering-mechanics
+
+如何思維？
+The Science of Everyday Thinking
+由 University of Queensland 與 edX 合作開設 
+ 學習如何思考，訓練邏輯，教你如何爭辯得更好，並且在人生中做出更好的選擇。獲得全球 36 則好評！
+https://www.class-central.com/mooc/1332/edx-the-science-of-everyday-thinking
+
+
+url= https://buzzorange.com/techorange/2017/09/05/2017-best-learning-resources/
